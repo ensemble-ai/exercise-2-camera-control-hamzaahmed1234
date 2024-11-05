@@ -163,7 +163,7 @@ In `flerp_camera.gd`, the student depends on `delta` for the timer mechanism, bu
 
 In `flerp_camera.gd`, the [public variables](https://github.com/ensemble-ai/exercise-2-camera-control-hamzaahmed1234/blob/7e7b93df158722584d23ffefb22efa5a0f84aec4/Obscura/scripts/camera_controllers/flerp_camera.gd#L9) that are not exported could be private (prefixed with a `_`) since they are only used within the script.
 
-In `flerp_camera.gd`, I think [`_process(](https://github.com/ensemble-ai/exercise-2-camera-control-hamzaahmed1234/blob/7e7b93df158722584d23ffefb22efa5a0f84aec4/Obscura/scripts/camera_controllers/flerp_camera.gd#L42)` would benefit from having more comments as well for clarity.
+In `flerp_camera.gd`, I think [`_process()`](https://github.com/ensemble-ai/exercise-2-camera-control-hamzaahmed1234/blob/7e7b93df158722584d23ffefb22efa5a0f84aec4/Obscura/scripts/camera_controllers/flerp_camera.gd#L42) would benefit from having more comments as well for clarity.
 
 The repo only seems to have one commit besides the initial commit. It would be better to have more frequent commits for more detailed commit messages.
 
